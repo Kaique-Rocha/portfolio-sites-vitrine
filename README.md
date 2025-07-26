@@ -34,6 +34,15 @@ Site moderno para marmitarias e delivery saudável com seleção de planos seman
 
 ---
 
+## 🚀 Como Visualizar
+
+### ✅ Versão ao vivo (GitHub Pages)
+
+👉 [Clique aqui para acessar o site](https://kaique-rocha.github.io/portfolio-sites-vitrine/)
+
+
+---
+
 ## 📌 Objetivo
 
 Este portfólio foi desenvolvido para apresentar modelos prontos que podem ser usados por:
@@ -55,19 +64,24 @@ Personalize os links, imagens e dados conforme sua necessidade.
 
 ---
 
-🚀 Publicado com GitHub Pages
-Acesse a versão online:
-👉 kaique-rocha.github.io/portfolio-sites-vitrine
+## 📣 Quer um site como este?
 
-✉️ Contato
-Deseja um site como esses? Entre em contato:
+Entre em contato para contratar a criação de uma landing page personalizada para o seu negócio ou cliente:
 
-📧 Email: kaiquerocha1805@gmail.com
+📧 **kaiquerocha1805@gmail.com**  
+📱 WhatsApp: [Clique para conversar](https://wa.me/+5511995481647)  
 
-📱 WhatsApp: Clique aqui
 
 ---
 
-👨‍💻 Autor
-Desenvolvido por Kaique Rocha
-Com foco em entregar soluções digitais simples, eficazes e acessíveis para negócios locais.
+## 🪪 Licença
+
+Este projeto está disponível apenas como **demo comercial**. Para uso em produção ou comercialização, entre em contato com o autor para personalização profissional.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido com 💻 e 🍔 por **[Kaique Rocha]**
+
+---
