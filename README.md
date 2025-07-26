@@ -10,7 +10,7 @@ Cada projeto é responsivo, moderno e otimizado para conversão via WhatsApp, id
 
 ### 🍔 [King Lanches](https://kaique-rocha.github.io/kinglanches/)
 Landing page para lanchonete/hamburgueria com cardápio interativo e integração com WhatsApp.  
-![Preview King Lanches](./projects/kinglanches.png)
+![Preview King Lanches](https://raw.githubusercontent.com/Kaique-Rocha/kinglanches/main/src/img/projeto.png)
 
 ---
 
@@ -48,34 +48,22 @@ Este portfólio foi desenvolvido para apresentar modelos prontos que podem ser u
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Kaique-Rocha/portfolio
-   ```
+   git clone https://github.com/Kaique-Rocha/portfolio-sites-vitrine
+Abra o arquivo index.html no seu navegador.
 
-2. Abra o arquivo `index.html` no seu navegador.
+Personalize os links, imagens e dados conforme sua necessidade.
 
-3. Personalize os links, imagens e dados conforme sua necessidade.
-
----
-
-## 🚀 Publicado com GitHub Pages
-
+🚀 Publicado com GitHub Pages
 Acesse a versão online:
-👉 [kaique-rocha.github.io/portfolio](https://kaique-rocha.github.io/portfolio)
+👉 kaique-rocha.github.io/portfolio-sites-vitrine
 
----
-
-## ✉️ Contato
-
+✉️ Contato
 Deseja um site como esses? Entre em contato:
 
-- 📧 Email: kaiquerocha1805@gmail.com  
-- 📱 WhatsApp: [Clique aqui](https://wa.me/5511995481647)
+📧 Email: kaiquerocha1805@gmail.com
 
----
+📱 WhatsApp: Clique aqui
 
-## 👨‍💻 Autor
-
-Desenvolvido por **Kaique Rocha**  
+👨‍💻 Autor
+Desenvolvido por Kaique Rocha
 Com foco em entregar soluções digitais simples, eficazes e acessíveis para negócios locais.
-
----
