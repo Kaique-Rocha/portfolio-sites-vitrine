@@ -52,6 +52,7 @@ Este portfólio foi desenvolvido para apresentar modelos prontos que podem ser u
 Abra o arquivo index.html no seu navegador.
 
 Personalize os links, imagens e dados conforme sua necessidade.
+
 ---
 
 🚀 Publicado com GitHub Pages
@@ -64,7 +65,9 @@ Deseja um site como esses? Entre em contato:
 📧 Email: kaiquerocha1805@gmail.com
 
 📱 WhatsApp: Clique aqui
+
 ---
+
 👨‍💻 Autor
 Desenvolvido por Kaique Rocha
 Com foco em entregar soluções digitais simples, eficazes e acessíveis para negócios locais.
