@@ -14,7 +14,7 @@ Landing page para lanchonete/hamburgueria com cardápio interativo e integraçã
 
 ---
 
-### 🍕 [Pizzaria Bella Massa] (https://kaique-rocha.github.io/pizzaria-bella-massa/)
+### 🍕 [Pizzaria Bella Massa](https://kaique-rocha.github.io/pizzaria-bella-massa/)
 Landing page exclusiva para pizzarias com sabores personalizáveis, opções de borda e tamanhos.
 ![Preview Pizzaria Bella Massa](https://raw.githubusercontent.com/Kaique-Rocha/pizzaria-bella-massa/main/src/img/pizzaria.png
 )
