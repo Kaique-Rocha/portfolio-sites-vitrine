@@ -23,6 +23,7 @@ Landing page exclusiva para pizzarias com sabores personalizáveis, opções de 
 
 ### 🥗 [Marmitaria Fit House](https://kaique-rocha.github.io/fit-house-website-showcase/)
 Site moderno para marmitarias e delivery saudável com seleção de planos semanais e opções fitness.
+
 ![Preview Marmitaria Fit House](https://raw.githubusercontent.com/Kaique-Rocha/fit-house-website-showcase/main/src/img/projeto.png
 )
 ---
