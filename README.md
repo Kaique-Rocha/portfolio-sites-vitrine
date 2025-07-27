@@ -70,10 +70,12 @@ Personalize os links, imagens e dados conforme sua necessidade.
 
 ## 📣 Quer um site como este?
 
-Entre em contato para contratar a criação de uma landing page personalizada para o seu negócio ou cliente:
+**Obtenha uma landing page profissional e personalizada para o seu negócio!**
 
-📧 **kaiquerocha1805@gmail.com**  
-📱 WhatsApp: [Clique para conversar](https://wa.me/+5511995481647)  
+Entre em contato para conversarmos sobre suas necessidades e receber um **orçamento sob medida**:
+
+📧 **kaiquerocha1805@gmail.com**
+📱 WhatsApp: [Clique para conversar](https://wa.me/+5511995481647)
 
 
 ---
